@@ -1,4 +1,4 @@
-# Network Security
+# 06 Network Security
 
 This wiki explains the network security portion of the Cybersecurity Architecture Series in a clear, page-based format.
 
